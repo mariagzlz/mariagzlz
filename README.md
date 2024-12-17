@@ -4,7 +4,7 @@ My name is Maria Gonzalez. I'm also MARGO, or  that´s my identity as a freelanc
 
 ## 📫 How to reach me
 - You can explore my web → 
-- You can find me on Linkedid → https://www.linkedin.com/in/mariagzlz/
+- You can find me on Linkedin → https://www.linkedin.com/in/mariagzlz/
 - You can see my work on Behance → https://www.behance.net/mariagzlz
 - Or contact me via Telegram → @soy_margo
 
