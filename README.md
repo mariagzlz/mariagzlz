@@ -6,7 +6,7 @@ My name is Maria Gonzalez. I'm also MARGO, or  that´s my identity as a freelanc
 - You can explore my web → 
 - You can find me on Linkedin → https://www.linkedin.com/in/mariagzlz/
 - You can see my work on Behance → https://www.behance.net/mariagzlz
-- Or contact me via Telegram → @soy_margo
+- Or contact me via Telegram → https://t.me/soy_margo
 
 <!---
 mariagzlz/mariagzlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
