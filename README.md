@@ -1,6 +1,6 @@
-# 👋 Hi! I'm @mariagzlz
-My name is Maria Gonzalez. I'm also MARGO, or  that´s my identity as a freelance graphic designer.
-<br>I’m currently learning UX/UI Desing and trying to understand some code languague, that's how I ended up here. ✨
+# 👋 Hi! I'm Maria Gonzalez
+I'm also MARGO, or that´s my identity as a freelance graphic designer. And this is my personal page to show my work.
+I’m currently learning UX/UI Desing and trying to understand some code languague, that's how I ended up here. ✨
 
 ## 📫 How to reach me
 - You can explore my web → 
